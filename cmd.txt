@@ -1,0 +1,3 @@
+git branch dev -- creating new branch
+git branch -a   --- list all branches in repo
+git checkout dev  --- switch to dev branch
