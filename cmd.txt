@@ -2,3 +2,5 @@ git branch dev -- creating new branch
 git branch -a   --- list all branches in repo
 git checkout dev  --- switch to dev branch
 git push -u origin pre_prod --- Pre_prod created in locally and need to push it remote
+git push origin -d pre_prod -- will delete branch in remote repo
+git branch -d pre_prod --- it will delete branch locally
